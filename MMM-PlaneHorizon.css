@@ -1,0 +1,4 @@
+/* The widget draws on a canvas; only the status line is HTML, in MagicMirror's own greys. */
+.plane-horizon .ph-canvas { display: block; }
+.plane-horizon .ph-status { margin-top: 2px; }
+.plane-horizon .ph-status:empty { display: none; }

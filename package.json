@@ -1,0 +1,25 @@
+{
+  "name": "mmm-planehorizon",
+  "version": "1.0.0",
+  "description": "Aircraft in your window view: a lightweight MagicMirror\u00b2 horizon display",
+  "main": "MMM-PlaneHorizon.js",
+  "private": true,
+  "scripts": {
+    "test": "node --test",
+    "demo": "node tools/demo-server.js"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mkubicek/MMM-PlaneHorizon.git"
+  },
+  "keywords": [
+    "magicmirror",
+    "magicmirror-module",
+    "aircraft",
+    "opensky"
+  ]
+}

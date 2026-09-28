@@ -1,0 +1,10 @@
+{
+  "latitude": 51.5,
+  "longitude": 0,
+  "eyeAltitudeM": 30,
+  "geoidUndulationM": 0,
+  "views": [
+    { "name": "West view", "direction": 270, "fieldOfView": 170, "maxElevation": 80 },
+    { "name": "East view", "direction": 90, "fieldOfView": 170, "maxElevation": 80 }
+  ]
+}
