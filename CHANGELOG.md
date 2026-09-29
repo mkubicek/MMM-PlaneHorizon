@@ -5,6 +5,7 @@
 - The Moon: real position (topocentric, main lunar terms; about 0.1°) and current phase, drawn
   behind the skyline like the sun, with the lit side oriented as seen from your location. Paler
   by day, a faint halo at night. Recomputed every 30 s.
+- Aircraft labels keep clear of the Moon.
 - `npm test` only runs `test/*.test.js`.
 
 ## 1.0.0 — 2026-09-27
