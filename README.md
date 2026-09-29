@@ -8,6 +8,7 @@
 
 - Small 3D aircraft models with type-specific shapes, airline colours, sunlight and navigation lights.
 - Flight labels with aircraft type, airline and route when metadata is available.
+- The real sun and Moon behind your skyline. The Moon shows its current phase, with the lit side turned the way it really faces from where you stand, so a crescent tilts through the evening (position within about 0.1°, checked against an ephemeris).
 - Multiple viewing directions, configurable window width, roof limit and skyline.
 - Predictions for aircraft about to enter your view on their current track.
 - Canvas rendering at 4 FPS by default, cached aircraft sprites, no runtime npm dependencies.

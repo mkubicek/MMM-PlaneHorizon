@@ -1,11 +1,11 @@
 {
   "name": "mmm-planehorizon",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Aircraft in your window view: a lightweight MagicMirror\u00b2 horizon display",
   "main": "MMM-PlaneHorizon.js",
   "private": true,
   "scripts": {
-    "test": "node --test",
+    "test": "node --test test/*.test.js",
     "demo": "node tools/demo-server.js"
   },
   "engines": {
